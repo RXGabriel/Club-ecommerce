@@ -18,6 +18,7 @@
     "react/react-in-jsx-scope": "off",
     "no-undef": "off",
     "no-use-before-define": "off",
-    "react/no-deprecated": "off"
+    "react/no-deprecated": "off",
+    "no-unused-vars": "warn"
   }
 }
